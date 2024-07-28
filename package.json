@@ -1,0 +1,17 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Felipe Ortiz felort15@gmail.com",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
