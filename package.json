@@ -5,7 +5,7 @@
   "scripts": {
     "callback": "node src/callback/challenge.js"
   },
-  "tipe":"module",
+  "tipe": "module",
   "keywords": [
     "javascript"
   ],
