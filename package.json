@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "callback":"node src/callback/challenge.js"
+    "callback": "node src/callback/challenge.js"
   },
+  "tipe":"module",
   "keywords": [
     "javascript"
   ],
@@ -12,6 +13,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
